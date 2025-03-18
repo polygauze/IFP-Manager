@@ -1,5 +1,5 @@
 # IFP-Manager
-This a script/program to convert multiple images into a video files. **This script is generally intended for low end devices (like chromebooks etc.)**
+Individual Frame Playback Manager (IFP Manager) is a script/program to convert multiple images into a video file. **This script is generally intended for low end devices (like chromebooks etc.)**
 
 ### Prerequisites
 To run this script, you will need to have installed:
